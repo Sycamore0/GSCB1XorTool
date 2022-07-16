@@ -1,0 +1,6 @@
+E:\Program Files\dnSpy\New Folder\xor\obj\Debug\xor.csproj.AssemblyReference.cache
+E:\Program Files\dnSpy\New Folder\xor\obj\Debug\xor.csproj.CoreCompileInputs.cache
+E:\Program Files\dnSpy\New Folder\xor\bin\Debug\xor.exe
+E:\Program Files\dnSpy\New Folder\xor\bin\Debug\xor.pdb
+E:\Program Files\dnSpy\New Folder\xor\obj\Debug\xor.exe
+E:\Program Files\dnSpy\New Folder\xor\obj\Debug\xor.pdb
